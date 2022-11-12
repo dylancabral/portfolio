@@ -82,37 +82,53 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Code Fellows",
+        "title": "Full Stack Web Development Student",
+        "years": "09.2022 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "JavaScript"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
+          "Css 3",
+          "Html 5",
           "JavaScript",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "React",
+          "Git",
+          "Github",
+          "Python"
+          
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Boeing",
+        "title": "Integral Fuel Cell Sealer",
+        "years": "11.2012 - 06.2022",
         "mainTech": [
-          "Angular 7/8"
+          "CMES"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "CMES",
+          "Outlook",
+          "3 Dimensional Blue Prints",
+          "Managed specific Deadlines effeciently",
+          "Worked To specific technical standards according to FAA Law, blueprints and safety standards.",
+          "Acted as Business Process Improvement Chief"
+        
+        ]
+      },
+      {
+        "company": "Sports Authority",
+        "title": "Lead Sales Associate",
+        "years": "07.2011 - 11.2012",
+        "mainTech": [
+          "Top 5 Sales spanning all locational employees"
+        ],
+        "technologies": [
+          "Excelled at developing customer relationships",
+          "Team Focused",
+          "promoted to lead sales in 6 months"
+        
         ]
       }
     ]

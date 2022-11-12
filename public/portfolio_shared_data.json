@@ -34,21 +34,30 @@
           "level": "95"
         },
         {
+          "name": "Git",
+          "class": "devicon-git-plain",
+          "level": "85"
+        },
+        {
           "name": "JavaScript",
           "class": "devicon-javascript-plain",
           "level": "70"
         },
         {
-          "name": "Sass",
-          "class": "devicon-sass-original",
-          "level": "75"
-        },
-        {
           "name": "Bootstrap",
           "class": "devicon-bootstrap-plain",
           "level": "85"
+        },
+        {
+          "name": "GitHub",
+          "class": "devicon-github-original",
+          "level": "85"
+        },
+        {
+          "name": "Illustrator",
+          "class": "devicon-illustrator-plain",
+          "level": "85"
         }
-        
       ]
     }
   }
