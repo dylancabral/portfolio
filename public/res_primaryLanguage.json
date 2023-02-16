@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋Hello, My name is Dylan and I am a software developer, I have a background in aerospace production and sales, I have always been a problem solver, and when I learned that at every level of software development you are solving problems, and working in teams to make things smooth I knew it was for me. I decided to learn full stack software development so that I could be hands on in whatever step of the process I needed to be to ensure my team feels supported, I hope to use these skills to improve processes and morale within a team of hard working people. I think sales and working in production for so long gives me a high level of retention towards a positive attitude and my people skills really shine in every environment I put myself in.",
+      "description": "👋Hello, My name is Dylan Cabral and I am a software developer, I have a background in aerospace production and sales, I have always been a problem solver, and when I learned that at every level of software development you are solving problems, and working in teams to make things smooth I knew it was for me. I decided to learn full stack software development so that I could be hands on in whatever step of the process I needed to be to ensure my team feels supported, I hope to use these skills to improve processes and morale within a team of hard working people. I think sales and working in production for so long gives me a high level of retention towards a positive attitude and my people skills really shine in every environment I put myself in.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,55 +11,64 @@
     },
     "projects": [
       {
-        "title": "Memory Mashup",
-        "startDate": "2022",
-        "description": "Memory Mashup was my Code Fellows 201 final group project. A memory game that uses a game to build memory retention. Built in vanilla JavaScript, Css, and HTML, colors styled after my favorite hockey team the Seattle Kraken.",
+        "title": "JobHunter",
+        "startDate": "January 2022",
+        "description": "An automated job application tool that uses web scraping to gather job listings from various job websites, uses regex to extract relevant information such as job title, company, and application link, and then uses remote APIs to gather information about the companies and the application process, then automates opening the application website",
         "images": [
-          "images/portfolio/project1/memory.png"
+          "images/portfolio/JobHunter/interface.png",
+          "images/portfolio/JobHunter/interface2.png",
+          "images/portfolio/JobHunter/1.png"
         ],
         "url": "",
         "technologies": [
           {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
+            "class": "devicon-python-plain",
+            "name": "Python"
           },
           {
-            "class": "devicon-html5-plain",
-            "name": "HTML"
+            "class": "devicon-git-plain",
+            "name": "Git"
           },
           {
-            "class": "devicon-css3-plain",
-            "name": "CSS"
+            "class": "devicon-github-plain",
+            "name": "GitHub"
           }
         ]
       },
       {
-        "title": "Odd Duck",
-        "startDate": "2022",
-        "description": "Personal project for study subject. I Built a JS enabled application that took in clicks to measure statistics and produce data rendered in charts, based of the most trafficed item ",
+        "title": "5 O'clock Somwhere",
+        "startDate": "December 2022",
+        "description": "React full stack application leveraging Component Architecture, Express.js, Bootstrap styling, REST API's, CRUD, and in site databasing using MongoDB that allows users to filter night caps with an input of ingredients they have in their cupboards, store them in a bar cart and generate ideas",
         "images": [
-          "images/portfolio/oddduck.png"
+          "images/portfolio/5Oclock/5_oclock2.png",
+          "images/portfolio/5Oclock/5_clock.png",
+          "images/portfolio/5Oclock/5_oclock.png"
+
         ],
-        "url": "https://github.com",
+        "url": "hhttps://5-o-clock.netlify.app/",
         "technologies": [
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
           },
           {
-            "class": "devicon-html5-plain",
-            "name": "HTML"
+            "class": "devicon-react-original",
+            "name": "React"
           },
           {
-            "class": "devicon-css3-plain",
-            "name": "CSS"
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
           }
         ]
       },
       {
         "title": "Salmon Cookies",
-        "startDate": "2015",
-        "description": "Salmon cookies is an application/ website that took in datat in a js enebaled form function and revealed the avereage sales per store from locations sarrounding the world ",
+        "startDate": "2022",
+        "description": "Salmon cookies is an application that takes in data to a form function and revealed the avereage sales per store from locations surrounding the world ",
         "images": [
           "images/portfolio/salmoncookies.png"
         ],
@@ -82,11 +91,29 @@
     ],
     "experience": [
       {
-        "company": "Code Fellows",
-        "title": "Full Stack Web Development Student",
-        "years": "09.2022 - present",
+        "company": "Code Fellows - Premiere Tech Academy",
+        "title": "Advanced Software Development in Python",
+        "years": "December 2022 - February 2023",
         "mainTech": [
-          "JavaScript"
+          "Python", "Django" , "Tailwind"
+        ],
+        "technologies": [
+          "Playwright",
+          "Data Structures and Algorithms",
+          "Next.js",
+          "SQL",
+          "PostgreSQL",
+          "Docker",
+          "Agile Development",
+          "Test Driven Development"
+        ]
+      },
+      {
+        "company": "Code Fellows - Premiere Tech Academy",
+        "title": "Intermediate Full Stack Development",
+        "years": "September 2022 - December 2022",
+        "mainTech": [
+          "React.JS"
         ],
         "technologies": [
           "Css 3",
@@ -103,7 +130,7 @@
       {
         "company": "Boeing",
         "title": "Integral Fuel Cell Sealer",
-        "years": "11.2012 - 06.2022",
+        "years": "November 2012 - June 2022",
         "mainTech": [
           "CMES"
         ],
@@ -112,7 +139,7 @@
           "Outlook",
           "3 Dimensional Blue Prints",
           "Managed specific Deadlines effeciently",
-          "Worked To specific technical standards according to FAA Law, blueprints and safety standards.",
+          "followed technical standards according to FAA Law, blueprints and OSHA.",
           "Acted as Business Process Improvement Chief"
         
         ]
