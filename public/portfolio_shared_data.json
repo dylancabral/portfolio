@@ -2,6 +2,7 @@
     "basic_info": {
       "name": "Dylan Cabral",
       "titles": [ "Software Developer" ],
+      "image1": "/images/DylanDog.jpg",
       "social": [
         {
           "name": "github",
@@ -19,13 +20,28 @@
     "skills": {
       "icons": [
         {
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "95"
+        },
+        {
+          "name": "Django",
+          "class": "devicon-django-plain",
+          "level": "95"
+        },
+        {
+          "name": "Docker",
+          "class": "devicon-docker-plain",
+          "level": "95"
+        },
+        {
           "name": "HTML 5",
           "class": "devicon-html5-plain",
           "level": "95"
         },
         {
-          "name": "CSS 3",
-          "class": "devicon-css3-plain",
+          "name": "React",
+          "class": "devicon-react-plain",
           "level": "95"
         },
         {
@@ -34,8 +50,8 @@
           "level": "85"
         },
         {
-          "name": "JavaScript",
-          "class": "devicon-javascript-plain",
+          "name": "Express.js",
+          "class": "devicon-express-original",
           "level": "70"
         },
         {
@@ -46,11 +62,6 @@
         {
           "name": "GitHub",
           "class": "devicon-github-original",
-          "level": "85"
-        },
-        {
-          "name": "Illustrator",
-          "class": "devicon-illustrator-plain",
           "level": "85"
         }
       ]

@@ -66,25 +66,27 @@
         ]
       },
       {
-        "title": "Salmon Cookies",
+        "title": "Gallery Of Horns",
         "startDate": "2022",
-        "description": "Salmon cookies is an application that takes in data to a form function and revealed the avereage sales per store from locations surrounding the world ",
+        "description": "Gallery Of Horns is My first jump into sorting and displaying a map of cards, using react components and modals you cna filter the number of horns on an animal and return the list filterd by that input ",
         "images": [
-          "images/portfolio/salmoncookies.png"
+          "images/portfolio/GalleryOfHorns/galleryless.jpg",
+          "images/portfolio/GalleryOfHorns/galleryall.png"
+
         ],
-        "url": "https://github.com",
+        "url": "https://extraordinary-sunburst-12d646.netlify.app/",
         "technologies": [
           {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
           },
           {
             "class": "devicon-html5-plain",
             "name": "HTML"
-          },
-          {
-            "class": "devicon-css3-plain",
-            "name": "CSS"
           }
         ]
       }
