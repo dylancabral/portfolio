@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋Hello, My name is Dylan Cabral and I am a software developer, I have a background in aerospace production and sales, I have always been a problem solver, and when I learned that at every level of software development you are solving problems, and working in teams to make things smooth I knew it was for me. I decided to learn full stack software development so that I could be hands on in whatever step of the process I needed to be to ensure my team feels supported, I hope to use these skills to improve processes and morale within a team of hard working people. I think sales and working in production for so long gives me a high level of retention towards a positive attitude and my people skills really shine in every environment I put myself in.",
+      "description": "👋Hello, My name is Dylan Cabral and I am a software developer, I have a background in aerospace production and sales, I have always been a problem solver, and when I learned that at every level of software development you are solving problems, and working in teams to make things smooth I knew it was for me. I decided to learn full stack software development so that I could be hands on in whatever step of the process I needed to be to ensure my team feels supported, I hope to use these skills to improve processes and morale within a team of hard working people. I think my experience in sales and having worked in production for so long enables me with a positive attitude even in pressure situations and my people skills really shine in every environment I put myself in.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -66,12 +66,16 @@
         ]
       },
       {
-        "title": "Gallery Of Horns",
-        "startDate": "2022",
-        "description": "Gallery Of Horns is My first jump into sorting and displaying a map of cards, using react components and modals you cna filter the number of horns on an animal and return the list filterd by that input ",
+        "title": "Job Application Tracker",
+        "startDate": "February 2023",
+        "description": "Styled with Tailwind, Built in Django and Next.js Job application tracker is a Full stack application hosted on Vercel, using a Django REST framework we built with a custom model, verified users will update the PostgreSQL database through the input of a React Form on the Front end application, the website displayes the state of the data in a Next.JS accordian, within which users can execute update functionality managing the progression of the application process. The users Application Data will be used to motivate them to step away from the main sites that they always which are dispyed in the data. then this information use in pairing with a host of other features aiming to provide knowledge and motivation to the user, such as a motivation quote api and a resource video embeded to aid them in their job search, this was an incredibly fun and challenging project, it carried a very wide scope and is made in a way to be scaleable to encorage multi user functionality as development continues, authorization and inter user community coming soon ... ",
         "images": [
-          "images/portfolio/GalleryOfHorns/galleryless.jpg",
-          "images/portfolio/GalleryOfHorns/galleryall.png"
+          "images/portfolio/JAT/JATform.png",
+          "images/portfolio/JAT/JATlanding.png",
+          "images/portfolio/JAT/Code.png",
+          "images/portfolio/JAT/Dash.png",
+          "images/portfolio/JAT/Dash2.png",
+          "images/portfolio/JAT/JATvideo.png"
 
         ],
         "url": "https://extraordinary-sunburst-12d646.netlify.app/",
@@ -81,12 +85,28 @@
             "name": "React"
           },
           {
-            "class": "devicon-bootstrap-plain",
-            "name": "Bootstrap"
+            "class": "devicon-nextjs-original colored",
+            "name": "Nextjs"
           },
           {
-            "class": "devicon-html5-plain",
-            "name": "HTML"
+            "class": "devicon-django-plain colored",
+            "name": "Django"
+          },
+          {
+            "class": "devicon-tailwindcss-plain",
+            "name": "Tailwind"
+          },
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-git-plain",
+            "name": "Git"
+          },
+          {
+            "class": "devicon-github-plain",
+            "name": "GitHub"
           }
         ]
       }
